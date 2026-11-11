@@ -1,52 +1,53 @@
+﻿ID,Título,Categoria,Prioridade,Prazo,Status
+1,Tarefa para BI,Trabalho,Alta,15/11/2026,Pendente
 
-ID,Título,Categoria,Prioridade,Prazo,Status
-1,Estudar matemática,Estudos,Alta,12/11/2026,Pendente
-2,Revisar português,Estudos,Média,13/11/2026,Concluída
-3,Entregar atividade de história,Estudos,Alta,14/11/2026,Pendente
-4,Organizar material escolar,Estudos,Baixa,15/11/2026,Concluída
-5,Estudar programação Python,Estudos,Alta,16/11/2026,Pendente
-6,Fazer exercícios de química,Estudos,Média,17/11/2026,Pendente
-7,Revisar conteúdo de biologia,Estudos,Média,18/11/2026,Concluída
-8,Preparar apresentação escolar,Estudos,Alta,19/11/2026,Pendente
-9,Ler livro de literatura,Estudos,Baixa,20/11/2026,Pendente
-10,Resolver questões do ENEM,Estudos,Alta,21/11/2026,Concluída
-11,Estudar física,Estudos,Média,22/11/2026,Pendente
-12,Fazer resumo de geografia,Estudos,Baixa,23/11/2026,Concluída
-13,Revisar redação,Estudos,Alta,24/11/2026,Pendente
-14,Praticar lógica de programação,Estudos,Alta,25/11/2026,Pendente
-15,Finalizar trabalho escolar,Estudos,Alta,26/11/2026,Concluída
-16,Desenvolver relatório,Trabalho,Média,12/11/2026,Pendente
-17,Organizar planilhas,Trabalho,Baixa,13/11/2026,Concluída
-18,Atualizar banco de dados,Trabalho,Alta,14/11/2026,Pendente
-19,Revisar documentação,Trabalho,Média,15/11/2026,Pendente
-20,Criar apresentação,Trabalho,Alta,16/11/2026,Concluída
-21,Analisar indicadores,Trabalho,Alta,17/11/2026,Pendente
-22,Organizar arquivos,Trabalho,Baixa,18/11/2026,Concluída
-23,Preparar reunião,Trabalho,Média,19/11/2026,Pendente
-24,Atualizar sistema,Trabalho,Alta,20/11/2026,Pendente
-25,Revisar código Python,Trabalho,Alta,21/11/2026,Concluída
-26,Enviar relatório semanal,Trabalho,Média,22/11/2026,Pendente
-27,Conferir dados da pesquisa,Trabalho,Alta,23/11/2026,Pendente
-28,Organizar tarefas da equipe,Trabalho,Baixa,24/11/2026,Concluída
-29,Desenvolver dashboard,Trabalho,Alta,25/11/2026,Pendente
-30,Finalizar documentação,Trabalho,Média,26/11/2026,Concluída
-31,Organizar quarto,Pessoal,Baixa,12/11/2026,Concluída
-32,Fazer compras,Pessoal,Média,13/11/2026,Pendente
-33,Organizar roupas,Pessoal,Baixa,14/11/2026,Pendente
-34,Preparar refeições,Pessoal,Média,15/11/2026,Concluída
-35,Organizar documentos pessoais,Pessoal,Alta,16/11/2026,Pendente
-36,Limpar computador,Pessoal,Baixa,17/11/2026,Concluída
-37,Planejar semana,Pessoal,Média,18/11/2026,Pendente
-38,Revisar orçamento pessoal,Pessoal,Alta,19/11/2026,Pendente
-39,Organizar mesa de estudos,Pessoal,Baixa,20/11/2026,Concluída
-40,Resolver pendências pessoais,Pessoal,Alta,21/11/2026,Pendente
-41,Separar materiais,Pessoal,Baixa,22/11/2026,Concluída
-42,Atualizar calendário,Pessoal,Média,23/11/2026,Pendente
-43,Organizar arquivos pessoais,Pessoal,Baixa,24/11/2026,Pendente
-44,Planejar compromissos,Pessoal,Média,25/11/2026,Concluída
-45,Revisar metas pessoais,Pessoal,Alta,26/11/2026,Pendente
-46,Estudar estatística,Estudos,Alta,27/11/2026,Pendente
-47,Criar gráfico de desempenho,Trabalho,Média,28/11/2026,Concluída
-48,Revisar conteúdos do PAS,Estudos,Alta,29/11/2026,Pendente
-49,Organizar rotina diária,Pessoal,Média,30/11/2026,Concluída
-50,Finalizar projeto de programação,Trabalho,Alta,01/12/2026,Pendente
+2,Tarefa para BI,Trabalho,Média,10/11/2026,Concluída
+3,Analisar indicadores,Trabalho,Alta,09/11/2026,Pendente
+4,Estudar Python,Estudos,Alta,15/11/2026,Pendente
+5,Organizar documentos,Pessoal,Baixa,08/11/2026,Concluída
+6,Criar dashboard,Trabalho,Alta,12/11/2026,Pendente
+7,Revisar relatório,Trabalho,Média,07/11/2026,Pendente
+8,Estudar matemática,Estudos,Alta,18/11/2026,Pendente
+9,Atualizar planilha,Trabalho,Baixa,11/11/2026,Concluída
+10,Fazer exercícios de química,Estudos,Média,14/11/2026,Pendente
+11,Organizar rotina,Pessoal,Baixa,06/11/2026,Pendente
+12,Desenvolver sistema,Trabalho,Alta,20/11/2026,Pendente
+13,Revisar biologia,Estudos,Média,05/11/2026,Concluída
+14,Preparar apresentação,Trabalho,Alta,16/11/2026,Pendente
+15,Limpar arquivos,Pessoal,Baixa,04/11/2026,Pendente
+16,Estudar estatística,Estudos,Alta,22/11/2026,Pendente
+17,Finalizar projeto,Trabalho,Alta,13/11/2026,Concluída
+18,Organizar materiais,Estudos,Baixa,03/11/2026,Concluída
+19,Atualizar banco de dados,Trabalho,Alta,19/11/2026,Pendente
+20,Planejar compromissos,Pessoal,Média,02/11/2026,Pendente
+21,Resolver questões do ENEM,Estudos,Alta,25/11/2026,Pendente
+22,Criar gráficos,Trabalho,Média,17/11/2026,Concluída
+23,Organizar quarto,Pessoal,Baixa,01/11/2026,Pendente
+24,Estudar física,Estudos,Alta,21/11/2026,Pendente
+25,Revisar documentação,Trabalho,Média,10/11/2026,Pendente
+26,Fazer compras,Pessoal,Média,26/11/2026,Pendente
+27,Desenvolver relatório,Trabalho,Alta,28/11/2026,Pendente
+28,Estudar literatura,Estudos,Baixa,09/11/2026,Concluída
+29,Atualizar calendário,Pessoal,Baixa,30/11/2026,Pendente
+30,Revisar código Python,Trabalho,Alta,06/11/2026,Pendente
+31,Preparar atividade escolar,Estudos,Média,23/11/2026,Pendente
+32,Organizar orçamento,Pessoal,Alta,27/11/2026,Concluída
+33,Analisar dados,Trabalho,Alta,29/11/2026,Pendente
+34,Estudar geografia,Estudos,Média,08/11/2026,Pendente
+35,Preparar reunião,Trabalho,Média,24/11/2026,Pendente
+36,Separar documentos,Pessoal,Baixa,12/11/2026,Concluída
+37,Praticar programação,Estudos,Alta,02/12/2026,Pendente
+38,Finalizar planilha,Trabalho,Média,05/11/2026,Pendente
+39,Organizar mesa,Pessoal,Baixa,03/12/2026,Pendente
+40,Estudar redação,Estudos,Alta,01/12/2026,Pendente
+41,Enviar documentos,Trabalho,Alta,04/11/2026,Concluída
+42,Planejar semana,Pessoal,Média,07/12/2026,Pendente
+43,Revisar conteúdos do PAS,Estudos,Alta,09/12/2026,Pendente
+44,Criar apresentação BI,Trabalho,Alta,15/11/2026,Concluída
+45,Organizar arquivos pessoais,Pessoal,Baixa,10/12/2026,Pendente
+46,Resolver exercícios de física,Estudos,Média,02/11/2026,Pendente
+47,Atualizar dashboard,Trabalho,Alta,11/11/2026,Pendente
+48,Preparar material de estudo,Estudos,Baixa,12/12/2026,Pendente
+49,Conferir indicadores,Trabalho,Média,13/11/2026,Concluída
+50,Revisar metas pessoais,Pessoal,Média,14/12/2026,Pendente
+51,Finalizar projeto de BI,Trabalho,Alta,16/12/2026,Pendente

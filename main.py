@@ -1,5 +1,9 @@
 import tkinter as tk
-from views.tela_tarefas import TelaTarefas
+
+try:
+    from views.tela_tarefas import TelaTarefas
+except ModuleNotFoundError:  # pragma: no cover
+    from TaskMasterPro.views.tela_tarefas import TelaTarefas
 
 
 def main():
